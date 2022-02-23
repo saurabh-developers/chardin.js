@@ -1,4 +1,4 @@
-
+let a;
 (function () {
     var slice = [].slice;
     var overlay_layer;
